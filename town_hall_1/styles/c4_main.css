@@ -49,5 +49,5 @@ a: hover {
 	--global-color-1: #800000;
 	}
 h1{
-	color: var(_--global-color-1);
+	color: var(--global-color-1);
 }
