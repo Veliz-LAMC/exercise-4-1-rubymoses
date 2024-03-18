@@ -42,7 +42,7 @@ footer p {
 a: focus, 
 a: hover {
 	font-style: italic;	
-.shadow{
+.shadow {
 	text-shadow: 2px 2px #800000; 
 }
 :root {
@@ -50,4 +50,8 @@ a: hover {
 	}
 h1{
 	color: var(--global-color-1);
+}
+:root {
+	--globsl-colo-1: #4d0080; 
+	
 }
