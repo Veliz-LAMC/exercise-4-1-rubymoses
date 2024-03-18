@@ -35,5 +35,19 @@ main h3 {
 	font-style: italic;
 	text-indent: 30px
 }
-
 /* the styles for the footer */
+footer p {
+	text-align: center;
+}
+a: focus, 
+a: hover {
+	font-style: italic;	
+.shadow{
+	text-shadow: 2px 2px #800000; 
+}
+:root {
+	--global-color-1: #800000;
+	}
+h1{
+	color: var(_--global-color-1);
+}
